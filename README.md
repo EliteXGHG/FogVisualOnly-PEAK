@@ -7,11 +7,11 @@
 [![Download](https://img.shields.io/badge/Download-Thunderstore-19a7ce?style=for-the-badge&logo=download)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
 [![Support](https://img.shields.io/badge/Support_me-ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/eliteghg)
 [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/eliteghg_)
-[![Report Bug](https://img.shields.io/badge/Report%20Bug-GitHub%20Issues-red?style=for-the-badge&logo=github)](https://github.com/YOURNAME/FogVisualOnly/issues/new?labels=bug&template=bug_report.md)
+[![Report Bug](https://img.shields.io/badge/Report%20Bug-GitHub%20Issues-red?style=for-the-badge&logo=github)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/issues/new?labels=bug&template=bug_report.md)
 
 [![Version](https://img.shields.io/badge/version-1.0.7-19a7ce?style=for-the-badge)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
 [![Downloads](https://img.shields.io/badge/downloads-thunderstore-19a7ce?style=for-the-badge)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
-[![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)](https://github.com/YOURNAME/FogVisualOnly)
+[![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)](https://github.com/EliteXGHG/FogVisualOnly-PEAK)
 [![Game](https://img.shields.io/badge/game-PEAK-red?style=for-the-badge)](https://store.steampowered.com/app/2767250/PEAK/)
 
 A BepInEx plugin for [PEAK](https://store.steampowered.com/app/2767250/PEAK/) that removes fog visuals for a PERFORMANCE and visual gain/advantage while preserving all fog ***deadliness*** (damage, healing, etc.). Fully safe with vanilla players online.
@@ -33,17 +33,13 @@ A BepInEx plugin for [PEAK](https://store.steampowered.com/app/2767250/PEAK/) th
 
 <div align="center">
 
-**Settings Menu**
+**Settings Menu** — **Appearance Settings** — **Bug Report**
 
-![Settings Menu](images/SETTINGS-PREVIEW.png)
-
-**Appearance Settings**
-
-![Appearance Settings](images/APPEARANCE-SETTINGS-PREVIEW.png)
-
-**Bug Report**
-
-![Bug Report](images/BUGREPORT-PREVIEW.png)
+<p align="center">
+  <img src="images/SETTINGS-PREVIEW.png" width="30%" />
+  <img src="images/APPEARANCE-SETTINGS-PREVIEW.png" width="30%" />
+  <img src="images/BUGREPORT-PREVIEW.png" width="30%" />
+</p>
 
 </div>
 
@@ -57,19 +53,16 @@ A BepInEx plugin for [PEAK](https://store.steampowered.com/app/2767250/PEAK/) th
 
 ---
 
-## Menu Overview
+## Menu Data Overview
 
 ### Fog Toggle
 
 The big button at the top saves and restores all your settings:
 
-> [!TIP]
-> **FOG OFF** — fog is hidden, max FPS
-
-> [!DANGER]
-> **FOG ON** — fog is visible, vanilla look
-
-Toggling back restores whatever settings you had before.
+| State | Description |
+|-------|-------------|
+| **FOG OFF** | Fog is hidden, max FPS |
+| **FOG ON** | Fog is visible, Toggling back restores whatever settings you had before. |
 
 ### Presets
 
@@ -131,7 +124,7 @@ Toggling back restores whatever settings you had before.
 
 Press **REPORT BUG** in the mod menu — it will copy your system info, mod version, and last 4000 lines of logs to clipboard (When SUBMITTING only) and opens GitHub Issues. Just paste and submit.
 
-Or report directly: [GitHub Issues](https://github.com/YOURNAME/FogVisualOnly/issues)
+Or report directly: [GitHub Issues](https://github.com/EliteXGHG/FogVisualOnly-PEAK/issues)
 
 Or message me on Discord: [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/eliteghg_)
 
@@ -139,8 +132,9 @@ Or message me on Discord: [![Discord](https://img.shields.io/badge/Discord-elite
 
 <div align="center">
 
-**Enjoying FogVisualOnly? Consider supporting me!**
+**Enjoying FogVisualOnly? Consider supporting me!** 
 
 [![Support](https://img.shields.io/badge/Support_me-ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/eliteghg) [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/eliteghg_)
+
 
 </div>

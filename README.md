@@ -33,12 +33,19 @@ A BepInEx plugin for [PEAK](https://store.steampowered.com/app/2767250/PEAK/) th
 
 <div align="center">
 
-**Settings Menu** — **Appearance Settings** — **Bug Report**
-
 <p align="center">
-  <img src="images/SETTINGS-PREVIEW.png" width="30%" />
-  <img src="images/APPEARANCE-SETTINGS-PREVIEW.png" width="30%" />
-  <img src="images/BUGREPORT-PREVIEW.png" width="30%" />
+  <figure style="display:inline-block; margin:0 25px;">
+    <figcaption><b>Settings Menu</b></figcaption>
+    <img src="images/SETTINGS-PREVIEW.png" width="28%" />
+  </figure>
+  <figure style="display:inline-block; margin:0 25px;">
+    <figcaption><b>Appearance Settings</b></figcaption>
+    <img src="images/APPEARANCE-SETTINGS-PREVIEW.png" width="28%" />
+  </figure>
+  <figure style="display:inline-block; margin:0 25px;">
+    <figcaption><b>Bug Report</b></figcaption>
+    <img src="images/BUGREPORT-PREVIEW.png" width="28%" />
+  </figure>
 </p>
 
 </div>

@@ -1,10 +1,21 @@
+<div align="center">
+
 # FogVisualOnly
 
 > Remove fog visuals for a **performance and visual boost** while keeping fog **deadliness** intact.
 
+![Version](https://img.shields.io/badge/version-1.0.7-blue?style=for-the-badge)
+![Downloads](https://img.shields.io/badge/downloads-thunderstore-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)
+![Game](https://img.shields.io/badge/game-PEAK-red?style=for-the-badge)
+
 A BepInEx plugin for [PEAK](https://store.steampowered.com/app/2767250/PEAK/) that removes fog visuals for a PERFORMANCE and visual gain/advantage while preserving all fog ***deadliness*** (damage, healing, etc.). Fully safe with vanilla players online.
 
 **[📥 Download on Thunderstore](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)**
+
+[![Report Bug](https://img.shields.io/badge/report_bug-GitHub%20Issues-red?style=for-the-badge&logo=github)](https://github.com/YOURNAME/FogVisualOnly/issues/new?labels=bug&template=bug_report.md)
+
+</div>
 
 ---
 
@@ -78,7 +89,9 @@ Toggling back restores whatever settings you had before.
 
 ## Compatibility
 
-- ⚠️ **Conflicts with** CoddingCat-FogRemover — disable it first
+> [!WARNING]
+> **Conflicts with** CoddingCat-FogRemover — disable it first
+
 - ✅ **Safe with vanilla players** — only affects local visuals, fog damage/healing is unchanged
 - ✅ **No material cloning** — uses MaterialPropertyBlock for zero-alteration rendering
 
@@ -86,6 +99,6 @@ Toggling back restores whatever settings you had before.
 
 ## Bug Reports
 
-Press **REPORT BUG** in the mod menu — it will copy your system info, mod version, and last 4000 lines of logs to clipboard(When SUBMITING only) and opens GitHub Issues. Just paste and submit.
+Press **REPORT BUG** in the mod menu — it will copy your system info, mod version, and last 4000 lines of logs to clipboard (When SUBMITTING only) and opens GitHub Issues. Just paste and submit.
 
 Or report directly: [GitHub Issues](https://github.com/YOURNAME/FogVisualOnly/issues)

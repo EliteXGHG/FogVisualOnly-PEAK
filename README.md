@@ -31,24 +31,9 @@ A BepInEx plugin for [PEAK](https://store.steampowered.com/app/2767250/PEAK/) th
 
 ## Screenshots
 
-<div align="center">
-
-<p align="center">
-  <figure style="display:inline-block; margin:0 25px;">
-    <figcaption><b>Settings Menu</b></figcaption>
-    <img src="images/SETTINGS-PREVIEW.png" width="28%" />
-  </figure>
-  <figure style="display:inline-block; margin:0 25px;">
-    <figcaption><b>Appearance Settings</b></figcaption>
-    <img src="images/APPEARANCE-SETTINGS-PREVIEW.png" width="28%" />
-  </figure>
-  <figure style="display:inline-block; margin:0 25px;">
-    <figcaption><b>Bug Report</b></figcaption>
-    <img src="images/BUGREPORT-PREVIEW.png" width="28%" />
-  </figure>
-</p>
-
-</div>
+| **Settings Menu** | **Appearance Settings** | **Bug Report** |
+|:---:|:---:|:---:|
+| ![Settings Menu](images/SETTINGS-PREVIEW.png =300x) | ![Appearance Settings](images/APPEARANCE-SETTINGS-PREVIEW.png =300x) | ![Bug Report](images/BUGREPORT-PREVIEW.png =300x) |
 
 ---
 

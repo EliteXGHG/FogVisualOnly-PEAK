@@ -54,7 +54,7 @@ The big button at the top saves and restores all your settings:
 | State | Description |
 |-------|-------------|
 | **FOG OFF** | Fog is hidden, max FPS |
-| **FOG ON** | Fog is visible, Toggling back restores whatever settings you had before. |
+| **FOG ON** | Fog is visible, **Toggling back restores whatever settings you had before**. |
 
 ### Presets
 
@@ -126,7 +126,7 @@ Or message me on Discord: [![Discord](https://img.shields.io/badge/Discord-elite
 
 **Enjoying FogVisualOnly? Consider supporting me!** 
 
-[![Support](https://img.shields.io/badge/Support_me-ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/eliteghg) [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/eliteghg_)
+[![Support](https://img.shields.io/badge/Support_me-ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/eliteghg)
 
 
 </div>

@@ -9,9 +9,9 @@
 [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/eliteghg_)
 [![Report Bug](https://img.shields.io/badge/Report%20Bug-GitHub%20Issues-red?style=for-the-badge&logo=github)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/issues/new?labels=bug&template=bug_report.md)
 
-[![Version](https://img.shields.io/badge/version-1.0.7-19a7ce?style=for-the-badge)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
+[![Version](https://img.shields.io/badge/version-1.2.0-19a7ce?style=for-the-badge)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
 [![Downloads](https://img.shields.io/badge/downloads-thunderstore-19a7ce?style=for-the-badge)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
-[![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)](https://github.com/EliteXGHG/FogVisualOnly-PEAK)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/blob/main/LICENSE)
 [![Game](https://img.shields.io/badge/game-PEAK-red?style=for-the-badge)](https://store.steampowered.com/app/2767250/PEAK/)
 
 A BepInEx plugin for [PEAK](https://store.steampowered.com/app/2767250/PEAK/) that removes fog visuals for a PERFORMANCE and visual gain/advantage while preserving all fog ***deadliness*** (damage, healing, etc.). Fully safe with vanilla players online.
@@ -121,6 +121,8 @@ Or report directly: [GitHub Issues](https://github.com/EliteXGHG/FogVisualOnly-P
 Or message me on Discord: [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/eliteghg_)
 
 ---
+
+**Changelog:** [CHANGELOG.md](CHANGELOG.md)
 
 <div align="center">
 

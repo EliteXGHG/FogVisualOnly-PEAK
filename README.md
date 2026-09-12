@@ -4,15 +4,15 @@
 
 > Remove fog visuals for a **performance and visual boost** while keeping fog **deadliness** intact.
 
-[![Download](https://img.shields.io/badge/Download-Thunderstore-19a7ce?labelColor=black&logo=download&logoColor=white)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
-[![Report Bug](https://img.shields.io/badge/Report%20Bug-GitHub%20Issues-red?labelColor=black&logo=github)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/issues/new?labels=bug&template=bug_report.md)
+[![Download](https://img.shields.io/badge/Download-Thunderstore-19a7ce?style=flat-square&labelColor=black&logo=thunderstore&logoColor=white)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
+[![Report Bug](https://img.shields.io/badge/Report%20Bug-GitHub%20Issues-red?style=flat-square&labelColor=black&logo=github&logoColor=white)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/issues/new?labels=bug&template=bug_report.md)
 
-[![Version](https://img.shields.io/thunderstore/v/eliteghg/FogVisualOnly?color=8b5cf6&labelColor=black&label=Version)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
-[![Downloads](https://img.shields.io/thunderstore/dt/eliteghg/FogVisualOnly?color=22c55e&labelColor=black&label=Downloads)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue?labelColor=black)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/blob/main/LICENSE)
-[![Game](https://img.shields.io/badge/Game-PEAK-red?labelColor=black)](https://store.steampowered.com/app/2767250/PEAK/)
+[![Version](https://img.shields.io/thunderstore/v/eliteghg/FogVisualOnly?style=flat-square&color=8b5cf6&labelColor=black&label=Version&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIxLjQxIDExLjU4bC05LTlDMTIuMDUgMi4yMiAxMS41NSAyIDExIDJINGMtMS4xIDAtMiAuOS0yIDJ2N2MwIC41NS4yMiAxLjA1LjU5IDEuNDJsOSA5Yy4zNi4zNi44Ni41OCAxLjQxLjU4LjU1IDAgMS4wNS0uMjIgMS40MS0uNThsNy03Yy4zNy0uMzYuNTktLjg2LjU5LTEuNDEgMC0uNTUtLjIyLTEuMDUtLjU5LTEuNDJ6TTUuNSA3QzQuNjcgNyA0IDYuMzMgNCA1LjVTNC42NyA0IDUuNSA0IDcgNC42NyA3IDUuNSA2LjMzIDcgNS41IDd6Ii8%2BPC9zdmc%2B&logoColor=white)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
+[![Downloads](https://img.shields.io/thunderstore/dt/eliteghg/FogVisualOnly?style=flat-square&color=22c55e&labelColor=black&label=Downloads&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTE5IDloLTRWM0g5djZINWw3IDcgNy03ek01IDE4djJoMTR2LTJINXoiLz48L3N2Zz4%3D&logoColor=white)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square&labelColor=black&logo=gplv3&logoColor=white)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/blob/main/LICENSE)
+[![Game](https://img.shields.io/badge/Game-PEAK-red?style=flat-square&labelColor=black&logo=steam&logoColor=white)](https://store.steampowered.com/app/2767250/PEAK/)
 
-A BepInEx plugin for [PEAK🏔️](https://store.steampowered.com/app/2767250/PEAK/) that removes fog visuals for a PERFORMANCE and visual gain/advantage while preserving all fog ***deadliness*** (damage, healing, etc.). Fully safe with vanilla players online.
+A BepInEx plugin for [PEAK🏔](https://store.steampowered.com/app/2767250/PEAK/) that removes fog visuals for a PERFORMANCE and visual gain/advantage while preserving all fog ***deadliness*** (damage, healing, etc.). Fully safe with vanilla players online.
 
 </div>
 
@@ -116,8 +116,4 @@ Press **REPORT BUG** in the mod menu — it will copy your system info, mod vers
 
 Or report directly: [GitHub Issues](https://github.com/EliteXGHG/FogVisualOnly-PEAK/issues)
 
-Or message me on Discord: [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?labelColor=black&logo=discord)](https://discord.com/users/eliteghg_)
-
----
-
-**Changelog:** [CHANGELOG.md](CHANGELOG.md)
+Or message me on Discord: [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?style=flat-square&labelColor=black&logo=discord&logoColor=white)](https://discord.com/users/eliteghg_)

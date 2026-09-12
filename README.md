@@ -4,17 +4,15 @@
 
 > Remove fog visuals for a **performance and visual boost** while keeping fog **deadliness** intact.
 
-[![Download](https://img.shields.io/badge/Download-Thunderstore-19a7ce?style=for-the-badge&logo=download)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
-[![Support](https://img.shields.io/badge/Support_me-ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/eliteghg)
-[![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/eliteghg_)
-[![Report Bug](https://img.shields.io/badge/Report%20Bug-GitHub%20Issues-red?style=for-the-badge&logo=github)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/issues/new?labels=bug&template=bug_report.md)
+[![Download](https://img.shields.io/badge/Download-Thunderstore-19a7ce?labelColor=black&logo=download&logoColor=white)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
+[![Report Bug](https://img.shields.io/badge/Report%20Bug-GitHub%20Issues-red?labelColor=black&logo=github)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/issues/new?labels=bug&template=bug_report.md)
 
-[![Version](https://img.shields.io/badge/version-1.2.0-19a7ce?style=for-the-badge)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
-[![Downloads](https://img.shields.io/badge/downloads-thunderstore-19a7ce?style=for-the-badge)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
-[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/blob/main/LICENSE)
-[![Game](https://img.shields.io/badge/game-PEAK-red?style=for-the-badge)](https://store.steampowered.com/app/2767250/PEAK/)
+[![Version](https://img.shields.io/thunderstore/v/eliteghg/FogVisualOnly?color=8b5cf6&labelColor=black&label=Version)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
+[![Downloads](https://img.shields.io/thunderstore/dt/eliteghg/FogVisualOnly?color=22c55e&labelColor=black&label=Downloads)](https://thunderstore.io/c/peak/p/eliteghg/FogVisualOnly/)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue?labelColor=black)](https://github.com/EliteXGHG/FogVisualOnly-PEAK/blob/main/LICENSE)
+[![Game](https://img.shields.io/badge/Game-PEAK-red?labelColor=black)](https://store.steampowered.com/app/2767250/PEAK/)
 
-A BepInEx plugin for [PEAK](https://store.steampowered.com/app/2767250/PEAK/) that removes fog visuals for a PERFORMANCE and visual gain/advantage while preserving all fog ***deadliness*** (damage, healing, etc.). Fully safe with vanilla players online.
+A BepInEx plugin for [PEAK🏔️](https://store.steampowered.com/app/2767250/PEAK/) that removes fog visuals for a PERFORMANCE and visual gain/advantage while preserving all fog ***deadliness*** (damage, healing, etc.). Fully safe with vanilla players online.
 
 </div>
 
@@ -31,7 +29,7 @@ A BepInEx plugin for [PEAK](https://store.steampowered.com/app/2767250/PEAK/) th
 
 ## Screenshots
 
-| **Settings Menu** | **Appearance Settings** | **Bug Report** |
+| **FOG Tab** | **SETTINGS Tab** | **Bug Report** |
 |:---:|:---:|:---:|
 | <img src="images/SETTINGS-PREVIEW.png" width="300" /> | <img src="images/APPEARANCE-SETTINGS-PREVIEW.png" width="300" /> | <img src="images/BUGREPORT-PREVIEW.png" width="300" /> |
 
@@ -87,7 +85,7 @@ The big button at the top saves and restores all your settings:
 | Fog Sounds | Mute fog audio |
 | Fog Colliders | Disable fog collision |
 
-### Appearance Settings
+### SETTINGS Tab
 
 | Setting | Description |
 |---------|-------------|
@@ -118,17 +116,8 @@ Press **REPORT BUG** in the mod menu — it will copy your system info, mod vers
 
 Or report directly: [GitHub Issues](https://github.com/EliteXGHG/FogVisualOnly-PEAK/issues)
 
-Or message me on Discord: [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/eliteghg_)
+Or message me on Discord: [![Discord](https://img.shields.io/badge/Discord-eliteghg__-5865F2?labelColor=black&logo=discord)](https://discord.com/users/eliteghg_)
 
 ---
 
 **Changelog:** [CHANGELOG.md](CHANGELOG.md)
-
-<div align="center">
-
-**Enjoying FogVisualOnly? Consider supporting me!** 
-
-[![Support](https://img.shields.io/badge/Support_me-ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/eliteghg)
-
-
-</div>
